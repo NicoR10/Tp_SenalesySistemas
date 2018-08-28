@@ -1,0 +1,32 @@
+Aurora 4.3 - ISO3382 Acoustical Parameter File
+ISO 3382 OCTAVE BAND ACOUSTICAL PARAMETERS
+
+Channel 1 Parameters
+
+Filename	Frq.band [Hz]	31.5	63	125	250	500	1k	2k	4k	8k	16k	A	Lin
+terrys_warehouse_omni	Signal [dB]	59,046	63,295	70,556	74,238	76,154	78,737	80,389	76,974	71,040	61,990	84,964	85,261
+terrys_warehouse_omni	Noise [dB]	34,583	9,258	-15,334	-18,419	-19,859	-21,464	-21,846	-20,831	-21,096	-22,194	-11,849	24,529
+terrys_warehouse_omni	strenGth [dB]	-9,954	-5,705	1,556	5,238	7,154	9,737	11,389	7,974	2,040	-7,010	5,964	8,261
+terrys_warehouse_omni	C50 [dB]	-7,862	-5,303	-7,763	-7,086	-6,862	-5,605	-3,341	-0,924	2,501	10,518	-3,196	-3,871
+terrys_warehouse_omni	C80 [dB]	-2,462	-2,922	-6,000	-4,812	-4,993	-2,506	-1,321	0,849	4,245	12,760	-1,118	-1,767
+terrys_warehouse_omni	D50 [%]	14,060	22,775	14,337	16,361	17,079	21,575	31,662	44,703	64,014	91,848	32,390	29,084
+terrys_warehouse_omni	Ts [ms]	886,374	727,130	581,581	495,998	540,229	472,596	360,580	207,366	81,387	18,627	343,316	369,148
+terrys_warehouse_omni	EDT [s]	4,364	4,560	3,316	6,432	8,362	8,533	6,808	4,012	1,856	0,665	6,595	6,694
+terrys_warehouse_omni	Tuser [s]	4,088	5,547	4,763	7,128	9,216	9,869	7,279	4,591	1,957	0,737	7,801	8,029
+terrys_warehouse_omni	T20 [s]	--	--	--	7,471	9,511	10,247	7,588	5,122	2,156	0,884	8,570	9,175
+terrys_warehouse_omni	T30 [s]	83,140	--	--	8,002	10,190	10,590	8,082	5,835	2,459	--	9,409	--
+terrys_warehouse_omni	Peakiness [dB]	24,799	26,166	26,814	28,156	28,506	32,506	37,741	39,741	46,675	52,269	38,996	37,681
+terrys_warehouse_omni	Millisecs [dB]	--	--	--	28,152	26,303	28,110	31,452	33,712	38,004	41,317	32,212	31,486
+terrys_warehouse_omni	Impulsivs [dB]	--	--	--	20,302	19,542	20,912	22,182	22,985	25,218	27,488	21,961	21,564
+terrys_warehouse_omni	St1 [dB]	--	--	--	--	--	--	--	--	--	--	--	--
+terrys_warehouse_omni	St2 [dB]	--	--	--	--	--	--	--	--	--	--	--	--
+terrys_warehouse_omni	StLate [dB]	--	--	--	--	--	--	--	--	--	--	--	--
+terrys_warehouse_omni	IACC	--	--	--	--	--	--	--	--	--	--	--	--
+terrys_warehouse_omni	IACC delay [ms]	--	--	--	--	--	--	--	--	--	--	--	--
+terrys_warehouse_omni	IACC width [ms]	--	--	--	--	--	--	--	--	--	--	--	--
+terrys_warehouse_omni	JLF	--	--	--	--	--	--	--	--	--	--	--	--
+terrys_warehouse_omni	JLFC	--	--	--	--	--	--	--	--	--	--	--	--
+terrys_warehouse_omni	LJ [dB]	--	--	--	--	--	--	--	--	--	--	--	--
+
+RTU = RT User (-5,0 dB, -15,0 dB)
+

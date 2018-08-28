@@ -1,0 +1,32 @@
+Aurora 4.3 - ISO3382 Acoustical Parameter File
+ISO 3382 OCTAVE BAND ACOUSTICAL PARAMETERS
+
+Channel 1 Parameters
+
+Filename	Frq.band [Hz]	31.5	63	125	250	500	1k	2k	4k	8k	16k	A	Lin
+ImpBaño(Untref)-GrabaciónIII	Signal [dB]	64,945	66,439	77,084	84,121	92,369	90,100	89,547	84,811	80,630	71,639	95,503	96,559
+ImpBaño(Untref)-GrabaciónIII	Noise [dB]	53,656	36,054	33,708	23,801	25,570	15,423	5,450	-4,130	-3,736	-5,806	16,242	27,085
+ImpBaño(Untref)-GrabaciónIII	strenGth [dB]	-4,055	-2,561	8,084	15,121	23,369	21,100	20,547	15,811	11,630	2,639	16,503	19,559
+ImpBaño(Untref)-GrabaciónIII	C50 [dB]	4,643	0,825	-0,673	-0,302	-0,113	0,401	-0,277	2,378	2,529	6,371	0,261	0,164
+ImpBaño(Untref)-GrabaciónIII	C80 [dB]	7,821	5,784	0,613	5,102	3,261	2,691	2,823	5,511	6,184	11,406	3,189	3,370
+ImpBaño(Untref)-GrabaciónIII	D50 [%]	74,442	54,737	46,132	48,261	49,352	52,308	48,407	63,358	64,162	81,259	51,503	50,944
+ImpBaño(Untref)-GrabaciónIII	Ts [ms]	627,816	334,566	217,066	134,845	103,364	90,252	77,941	56,850	51,109	33,421	66,650	66,242
+ImpBaño(Untref)-GrabaciónIII	EDT [s]	0,588	0,547	0,977	0,594	0,892	0,805	0,852	0,719	0,659	0,393	0,838	0,830
+ImpBaño(Untref)-GrabaciónIII	Tuser [s]	1,264	0,849	0,498	0,625	0,966	1,030	0,758	0,729	0,589	0,397	0,873	0,898
+ImpBaño(Untref)-GrabaciónIII	T20 [s]	1,321	1,038	0,844	0,744	0,944	0,915	0,853	0,737	0,648	0,405	0,879	0,899
+ImpBaño(Untref)-GrabaciónIII	T30 [s]	1,252	1,378	0,836	0,851	1,002	0,936	0,840	0,741	0,652	0,401	0,915	0,942
+ImpBaño(Untref)-GrabaciónIII	Peakiness [dB]	15,490	18,089	17,848	18,696	19,249	19,689	20,142	22,250	26,692	26,159	21,811	21,130
+ImpBaño(Untref)-GrabaciónIII	Millisecs [dB]	--	--	--	18,608	16,201	16,375	15,993	16,677	17,151	17,219	14,974	16,728
+ImpBaño(Untref)-GrabaciónIII	Impulsivs [dB]	--	--	--	12,439	12,446	11,196	10,948	12,260	12,590	13,803	11,284	11,284
+ImpBaño(Untref)-GrabaciónIII	St1 [dB]	--	--	--	--	--	--	--	--	--	--	--	--
+ImpBaño(Untref)-GrabaciónIII	St2 [dB]	--	--	--	--	--	--	--	--	--	--	--	--
+ImpBaño(Untref)-GrabaciónIII	StLate [dB]	--	--	--	--	--	--	--	--	--	--	--	--
+ImpBaño(Untref)-GrabaciónIII	IACC	--	--	--	--	--	--	--	--	--	--	--	--
+ImpBaño(Untref)-GrabaciónIII	IACC delay [ms]	--	--	--	--	--	--	--	--	--	--	--	--
+ImpBaño(Untref)-GrabaciónIII	IACC width [ms]	--	--	--	--	--	--	--	--	--	--	--	--
+ImpBaño(Untref)-GrabaciónIII	JLF	--	--	--	--	--	--	--	--	--	--	--	--
+ImpBaño(Untref)-GrabaciónIII	JLFC	--	--	--	--	--	--	--	--	--	--	--	--
+ImpBaño(Untref)-GrabaciónIII	LJ [dB]	--	--	--	--	--	--	--	--	--	--	--	--
+
+RTU = RT User (-5,0 dB, -15,0 dB)
+
